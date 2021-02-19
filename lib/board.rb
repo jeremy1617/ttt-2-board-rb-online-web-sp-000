@@ -1,6 +1,6 @@
 # Define the variable board below.
 board = []
-for i in (1..9) do
+for i in (0..8) do
   board[i]= " "
 end
 puts board
