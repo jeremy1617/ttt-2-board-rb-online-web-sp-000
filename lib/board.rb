@@ -3,3 +3,4 @@ board = []
 for i: 9
   board[i]= " "
 end
+puts board
